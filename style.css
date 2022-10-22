@@ -30,10 +30,6 @@ span, footer a{
     color:#FF9900;
 }
 
-footer a:hover{
-    color: #bd7100;
-}
-
 p{
     color: #7D7987;
     font-size: 14px;
@@ -69,6 +65,11 @@ p{
     font-size: 14px;
     line-height: 28px;
 }
+
+#footer-menu a:hover{
+    color: #bd7100;
+}
+
 
 #balls{
     position: fixed;
