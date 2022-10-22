@@ -5,12 +5,12 @@ body{
     margin: 0;
 }
 
-#area-site{
+#container{
     width: 45%;
     margin: 0 auto;
 }
 
-#img-central{
+#main-image{
     width: 57.3%;
 }
 
@@ -30,13 +30,17 @@ span, footer a{
     color:#FF9900;
 }
 
+footer a:hover{
+    color: #bd7100;
+}
+
 p{
     color: #7D7987;
     font-size: 14px;
     line-height: 28px;
 }
 
-#img-central, p{
+#main-image, p{
     margin-bottom: 72px;
 }
 
@@ -45,23 +49,23 @@ p{
     border-top: 1px solid #ECEFF2;
 }
 
-#line-footer, #menu-footer{
+#line-footer, #footer-menu{
     margin: 0 auto 33px;
 }
 
-#menu-footer{
+#footer-menu{
     list-style: none;   
     display: flex;
     justify-content: center;
     padding-left: 0;
 }
 
-#menu-footer li{
+#footer-menu li{
     width: 20%;
     margin-top: 8px;
 }
 
-#menu-footer a{
+#footer-menu a{
     font-size: 14px;
     line-height: 28px;
 }
@@ -79,13 +83,13 @@ p{
         font-size: 32px;
     }
 
-    #menu-footer li{
+    #footer-menu li{
         width: 30%;
     }
 }
 
 @media screen and (max-width: 800px){
-	#img-central{
+	#footer-menu{
         margin-bottom: 20px;
 	}
 
@@ -96,7 +100,7 @@ p{
 
 @media screen and (max-width: 650px){
 
-    #area-site{
+    #container{
         width: 70%;
     }
     

@@ -1,4 +1,4 @@
-<h1 align="center">HOME PAGE</h1>
+<h1 align="center">WEBSITE</h1>
 
 ![Imagem da página desenvolvida](./.github/page-preview.png)
 
@@ -6,21 +6,38 @@
 
 ## 📋 Descrição do projeto
 
-A <strong>home page</strong> foi desenvolvida durante a trilha explorer da <a href="https://www.rocketseat.com.br/">@Rocketseat</a>. Para a sua construção, foi utilizado alguns elementos básicos da linguagem de marcação <em>HTML</em> e de estilização <em>CSS</em> para realizar uma breve introdução aos conhecimentos destas duas linguagens.
+O <strong>website</strong> foi construído com elementos básicos da linguagem de marcação <em>HTML</em> e de estilização <em>CSS</em> para realizar uma breve introdução e aplicação dos conhecimentos adquiridos destas duas linguagens.
 
->🔗 [Clique aqui para acessar](https://nathxrz.github.io/TrilhaExplorer-Projeto-01-stage-02/)
+- Projeto desenvolvido durante a Trilha Explorer da <a href="https://www.rocketseat.com.br/">@Rocketseat</a>. 
 
-<br>
+> HTML
+- Tags de texto;
+- Tags semânticas;
+- Inserção de imagens e links;
+- Tags para criação de listas;
+- Atributos de acessibilidade;
+- Atributos de identificação.
+
+> CSS
+- Seletores e suas combinações;
+- Propriedades de fontes e de espaçamentos;
+- Propriedades de listas e textos;
+- Breakpoints;
+
+> Protótipo
+
+🔗 [Clique aqui para acessar](https://nathxrz.github.io/TrilhaExplorer-projeto-1/)
+
+<hr>
 
 ## 🛠️ Tecnologias 
 - HTML
 - CSS
 
-<br>
+<hr>
 
 ## 📩 Contato
 > 📧 nathyrezendemachado@gmail.com <br>
 > 💼 <a href="https://www.linkedin.com/in/nathalia-machado-021b1b230/"> LinkedIn</a> <br>
-> 📞 <a href="tel:5553991822614">Telefone</a>
 
     
